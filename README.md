@@ -1,3 +1,3 @@
-# Modern JavaScript tutorial (The Net Ninja)
+# Full Modern React Tutorial (The Net Ninja)
 
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
