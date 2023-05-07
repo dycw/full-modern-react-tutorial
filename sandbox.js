@@ -1,10 +1,9 @@
-let age = 25;
-let year = 2019;
-
-console.log(age, year);
-
-age = 30;
-console.log(age);
-
-const points = 100;
-console.log(points);
+const content = document.querySelectorAll("p");
+const classes = ["success", "error"];
+classes.forEach((cls) => {
+  content.forEach((tag) => {
+    if (tag.innerText.includes(cls)) {
+      tag.classList.add(cls);
+    }
+  });
+});
